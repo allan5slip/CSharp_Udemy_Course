@@ -1,0 +1,6 @@
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\bin\Debug\Curso_CSharp_Struct.exe.config
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\obj\Debug\Curso_CSharp_Struct.csprojResolveAssemblyReference.cache
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\bin\Debug\Curso_CSharp_Struct.exe
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\bin\Debug\Curso_CSharp_Struct.pdb
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\obj\Debug\Curso_CSharp_Struct.exe
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Struct\Curso_CSharp_Struct\obj\Debug\Curso_CSharp_Struct.pdb

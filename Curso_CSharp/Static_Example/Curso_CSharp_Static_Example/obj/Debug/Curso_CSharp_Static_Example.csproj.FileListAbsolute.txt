@@ -1,0 +1,5 @@
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Static_Example\Curso_CSharp_Static_Example\bin\Debug\Curso_CSharp_Static_Example.exe.config
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Static_Example\Curso_CSharp_Static_Example\bin\Debug\Curso_CSharp_Static_Example.exe
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Static_Example\Curso_CSharp_Static_Example\bin\Debug\Curso_CSharp_Static_Example.pdb
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Static_Example\Curso_CSharp_Static_Example\obj\Debug\Curso_CSharp_Static_Example.exe
+c:\users\allan.costa\documents\visual studio 2013\Projects\Curso_CSharp_Static_Example\Curso_CSharp_Static_Example\obj\Debug\Curso_CSharp_Static_Example.pdb

@@ -1,0 +1,6 @@
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\bin\Debug\Casting_And_Converting.exe.config
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\bin\Debug\Casting_And_Converting.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\bin\Debug\Casting_And_Converting.pdb
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\obj\Debug\Casting_And_Converting.csprojResolveAssemblyReference.cache
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\obj\Debug\Casting_And_Converting.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Casting_And_Converting\Casting_And_Converting\obj\Debug\Casting_And_Converting.pdb

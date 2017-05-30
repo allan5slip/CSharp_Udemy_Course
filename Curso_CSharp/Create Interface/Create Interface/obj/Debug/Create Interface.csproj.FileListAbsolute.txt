@@ -1,0 +1,2 @@
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Create Interface\Create Interface\bin\Debug\Create Interface.exe.config
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Create Interface\Create Interface\obj\Debug\Create Interface.csprojResolveAssemblyReference.cache

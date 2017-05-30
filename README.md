@@ -1,1 +1,1 @@
-# CSharp_Udemy_Course
+## This folder contains the C# projects of a course of the Udemy

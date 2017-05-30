@@ -1,0 +1,6 @@
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe.config
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\bin\Debug\IEnumerable.pdb
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\obj\Debug\IEnumerable.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\IEnumerable\IEnumerable\obj\Debug\IEnumerable.pdb

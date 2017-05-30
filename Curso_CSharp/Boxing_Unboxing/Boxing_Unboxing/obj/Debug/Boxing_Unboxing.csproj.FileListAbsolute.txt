@@ -1,0 +1,6 @@
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\bin\Debug\Boxing_Unboxing.exe.config
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\bin\Debug\Boxing_Unboxing.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\bin\Debug\Boxing_Unboxing.pdb
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\obj\Debug\Boxing_Unboxing.exe
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\obj\Debug\Boxing_Unboxing.pdb
+C:\Users\allan.costa\Documents\Visual Studio 2013\Projects\Curso_CSharp\Boxing_Unboxing\Boxing_Unboxing\obj\Debug\Boxing_Unboxing.csprojResolveAssemblyReference.cache
